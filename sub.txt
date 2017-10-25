@@ -13,3 +13,7 @@ sandbox
 api
 app
 email
+news
+blog
+mail
+shop
