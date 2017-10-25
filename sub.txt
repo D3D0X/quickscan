@@ -13,3 +13,8 @@ sandbox
 api
 app
 email
+web
+s3
+mail
+my
+start
