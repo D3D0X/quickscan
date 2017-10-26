@@ -13,4 +13,9 @@ sandbox
 api
 app
 email
-developers
+web
+s3
+mail
+my
+start
+
