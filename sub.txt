@@ -17,4 +17,9 @@ news
 blog
 mail
 shop
-
+web
+s3
+mail
+my
+start
+developers
