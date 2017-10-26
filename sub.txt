@@ -23,3 +23,4 @@ mail
 my
 start
 developers
+zabbix
