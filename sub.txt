@@ -17,4 +17,3 @@ news
 blog
 mail
 shop
-developers
