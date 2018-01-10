@@ -13,6 +13,7 @@ phpinfo.php
 phpmyadmin
 .git
 .svn
+.svn/entries
 rest
 dbfunction.inc
 htpasswd 
