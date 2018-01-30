@@ -15,6 +15,7 @@ phpmyadmin
 .svn
 .svn/entries
 composer.lock
+settings.php
 rest
 dbfunction.inc
 htpasswd 
