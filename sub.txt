@@ -24,3 +24,8 @@ my
 start
 developers
 zabbix
+nagios
+stats
+observium
+phpmyadmin
+pgmyadmin
