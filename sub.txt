@@ -19,7 +19,7 @@ mail
 shop
 web
 s3
-mail
+webmail
 my
 start
 developers
