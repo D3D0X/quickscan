@@ -27,6 +27,14 @@ examples/servlets/servlet/RequestHeaderExample
 examples/servlets/servlet/CookieExample
 cdn-cgi/trace
 v2/inc/dbconn.inc
+v1/config.inc
+include/functions.inc
+mysql.inc
+common.inc
+connect2.inc
+connect0.inc
+config1.inc
+fp2/lib/lib.inc
 wp-includes/php_errors.log
 .bash_history
 .bashrc
