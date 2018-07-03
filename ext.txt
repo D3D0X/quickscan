@@ -48,3 +48,4 @@ wp-includes/
 wp-content/plugins/
 wp-admin/install.php
 forum/admin.php
+xmlrpc.php
