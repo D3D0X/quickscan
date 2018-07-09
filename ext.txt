@@ -46,6 +46,7 @@ stats
 wp-admin/
 wp-includes/
 wp-content/plugins/
+wp-content/plugins/ubh/up.php
 wp-admin/install.php
 forum/admin.php
 xmlrpc.php
