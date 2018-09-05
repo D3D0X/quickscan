@@ -1,3 +1,4 @@
+!!!ATENTION!%20This%20server%20is%20on%20Maintenance%20please%20go%20to%20WWW.EVIL.COM%20%20%20%20%20%20
 server-status
 etc/php.ini
 /%09/google.com
