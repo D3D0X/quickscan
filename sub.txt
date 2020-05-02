@@ -30,3 +30,7 @@ observium
 phpmyadmin
 pgmyadmin
 engineering
+ww1
+box
+admin
+direct
